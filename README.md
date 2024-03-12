@@ -13,4 +13,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-sheta&show_icons=true&locale=en&layout=compact" alt="vivek-sheta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-sheta&" alt="vivek-sheta" /></p>
+
