@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek</h1>
-- 🌱 🔭Hi👋 Vivek here, an Indian enthusiast in Canada, passionate about programming and cybersecurity. I started with a Developer Internship, honed my skills, and fell in love with cybersecurity. I have explored Cryptography, Network security, Different OS, Python, AI-ML, Endpoint Security, IAM, and Coding. I am certified in various domains, from Big Data to Ethical Hacking, building a well-rounded foundation.I’m currently learning **AWS, Azure & GCP**
+- 🌱 🔭Hi👋 Vivek here, an Indian enthusiast in Canada, passionate about programming and cybersecurity. I started with a Developer Internship, honed my skills, and fell in love with cybersecurity. I have explored Cryptography, Network security, Different OS, Python, AI-ML, Endpoint Security, IAM, and Coding. I am certified in various domains, from Big Data to Ethical Hacking, building a well-rounded foundation.I’m currently learning AWS, Azure & GCP
 
 - 👨‍💻 Know more about me visit Protfolio [https://vivek-sheta.github.io/Portfolio/](https://vivek-sheta.github.io/Portfolio/)
 
